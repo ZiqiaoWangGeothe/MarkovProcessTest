@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-
-@author: wangz
-"""
 import numpy as np
 import random
 P = np.array([[0.8, 0.2], [0.7, 0.3]])
